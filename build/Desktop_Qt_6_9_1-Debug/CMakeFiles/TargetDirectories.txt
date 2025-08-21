@@ -1,0 +1,9 @@
+/home/blackbook/QtProjects/LogicGateSim/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/LogicGateSim.dir
+/home/blackbook/QtProjects/LogicGateSim/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/edit_cache.dir
+/home/blackbook/QtProjects/LogicGateSim/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/blackbook/QtProjects/LogicGateSim/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/list_install_components.dir
+/home/blackbook/QtProjects/LogicGateSim/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install.dir
+/home/blackbook/QtProjects/LogicGateSim/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/local.dir
+/home/blackbook/QtProjects/LogicGateSim/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/strip.dir
+/home/blackbook/QtProjects/LogicGateSim/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/LogicGateSim_autogen_timestamp_deps.dir
+/home/blackbook/QtProjects/LogicGateSim/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/LogicGateSim_autogen.dir

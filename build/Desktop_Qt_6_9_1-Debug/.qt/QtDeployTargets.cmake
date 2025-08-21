@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_LogicGateSim_FILE /home/blackbook/QtProjects/LogicGateSim/build/Desktop_Qt_6_9_1-Debug/LogicGateSim)
+set(__QT_DEPLOY_TARGET_LogicGateSim_TYPE EXECUTABLE)
